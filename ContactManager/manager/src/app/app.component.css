@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(0,0,0,1.00);
+}
+
+#homeback{
+    background-image: url('/src/assets/contact.jpg');
+}
